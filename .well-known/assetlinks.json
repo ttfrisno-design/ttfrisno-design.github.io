@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ttfrisno_design.twa",
+        "sha256_cert_fingerprints": ["37:D2:06:7E:22:21:BB:9D:FC:6C:F4:F2:F6:1E:B3:9A:40:56:07:4B:2A:1D:6E:68:C5:65:85:C0:E8:EA:E3:AB"]
+      }
+    }]
